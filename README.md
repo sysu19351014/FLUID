@@ -26,7 +26,7 @@ If you find this project useful or use our dataset/code in your research (Github
   author = {Chen, Yiyang and Wu, Zhigang and Zheng, Guohong and Wu, Xuesong and Xu, Liwen and Tang, Haoyuan and He, Zhaocheng and Zeng, Haipeng},
   journal = {arXiv preprint arXiv:2509.00497},
   year = {2025},
-  note = {Guangdong Provincial Key Laboratory of Intelligent Transportation Systems, Sun Yat-sen Unversity},
+  note = {Guangdong Provincial Key Laboratory of Intelligent Transportation Systems, Sun Yat-sen University},
   url = {https://arxiv.org/abs/2509.00497}
 }
 ```
