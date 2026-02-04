@@ -1,5 +1,8 @@
 # FLUID: A Fine-Grained Lightweight Urban Signalized-Intersection Dataset of Dense Conflict Trajectories
 
+#### Brief Introduction
+This dataset and its attached pipeline is lightweight, but useful.
+
 #### ToDo List
 
 - [x] Upload data processing code
@@ -12,9 +15,15 @@
 
 - [ ] Related research
 
-#### demo
+#### Demo
 
 The main process is data processing, and the order is based on the numbers before the file names.
+
+#### Pipeline for A Successful Drone Expirement
+
+Here will be the roadmap.
+
+#### Pros and cons
 
 ## Citation
 
@@ -30,3 +39,4 @@ If you find this project useful or use our dataset/code in your research (Github
   url = {https://arxiv.org/abs/2509.00497}
 }
 ```
+
