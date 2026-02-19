@@ -32,7 +32,9 @@ The main process is data processing, and the order is based on the numbers befor
 
 #### Demo Video (v1)
 
-<video src="docs/demoVideo.mp4"></video>
+![](docs/demoVideo.mp4)
+
+[Click here to view the Demo Video](docs/demoVideo.mp4)
 
 ## Citation
 
