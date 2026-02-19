@@ -24,11 +24,11 @@ The main process is data processing, and the order is based on the numbers befor
 
 #### Pipeline for A Successful Drone Expirement
 
-![](imgs\framework.png)
+![](imgs/framework.png)
 
 #### Scene Details
 
-![](imgs\scene.png)
+![](imgs/scene.png)
 
 #### Demo Video (v1)
 
