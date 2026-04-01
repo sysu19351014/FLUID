@@ -65,7 +65,7 @@ Vector and raster maps with geographic coordinates, continuously updated.
     +proj=tmerc +lon_0=0 +lat_0=0 +k=1 +x_0=0 +y_0=0 +ellps=WGS84 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs
     ```
 - If it has the suffix wgs84, it is a raster map projected into the WGS84 coordinate system for vector map drawing.
-* vector: OpenStreetMap vector map similar to the LaneLet2 standard (<mark>FIDRT is better, others are still under revision</mark>).
+* vector: OpenStreetMap vector map that meets the Lanelet2 standard (<mark>Please note that the Lanelet2 library is not compatible with Windows environments.</mark>).
 
 ###### signal
 
