@@ -45,13 +45,18 @@ The main process is data processing, and the order is based on the numbers befor
 If you find this project useful or use our dataset/code in your research (Github/Figshare), please consider citing our work:
 
 ```bibtex
-@article{chen2025fluid,
-  title = {FLUID: A Fine-Grained Lightweight Urban Signalized-Intersection Dataset of Dense Conflict Trajectories},
+@article{Chen2026,
   author = {Chen, Yiyang and Wu, Zhigang and Zheng, Guohong and Wu, Xuesong and Xu, Liwen and Tang, Haoyuan and He, Zhaocheng and Zeng, Haipeng},
-  journal = {arXiv preprint arXiv:2509.00497},
-  year = {2025},
-  note = {Guangdong Provincial Key Laboratory of Intelligent Transportation Systems, Sun Yat-sen University},
-  url = {https://arxiv.org/abs/2509.00497}
+  title = {A Fine-Grained Lightweight Urban Signalized-Intersection Dataset of Dense Conflict Trajectories},
+  journal = {Scientific Data},
+  year = {2026},
+  volume = {},
+  number = {},
+  pages = {},
+  doi = {10.1038/s41597-026-07110-9},
+  url = {https://doi.org/10.1038/s41597-026-07110-9},
+  issn = {2052-4463},
+  note = {Accepted: 2026-03-19}
 }
 
 @article{Chen2025,
@@ -61,5 +66,14 @@ year = "2025",
 month = "8",
 url = "https://figshare.com/articles/dataset/FLUID_A_Fine-Grained_Lightweight_Urban_Signalized-Intersection_Dataset_of_Dense_Conflict_Trajectories/29974954",
 doi = {10.6084/m9.figshare.29974954.v1}
+}
+
+@article{chen2025fluid,
+  title = {FLUID: A Fine-Grained Lightweight Urban Signalized-Intersection Dataset of Dense Conflict Trajectories},
+  author = {Chen, Yiyang and Wu, Zhigang and Zheng, Guohong and Wu, Xuesong and Xu, Liwen and Tang, Haoyuan and He, Zhaocheng and Zeng, Haipeng},
+  journal = {arXiv preprint arXiv:2509.00497},
+  year = {2025},
+  note = {Guangdong Provincial Key Laboratory of Intelligent Transportation Systems, Sun Yat-sen University},
+  url = {https://arxiv.org/abs/2509.00497}
 }
 ```
